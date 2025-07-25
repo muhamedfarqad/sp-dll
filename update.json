@@ -1,8 +1,8 @@
 {
   "download_url":"",
-  "version":"",
-  "release_date":"",
-  "release_notes":"",
-  "release_size":"",
+  "version":"1.0.0",
+  "release_date":"first release",
+  "release_notes":"first release",
+  "release_size":"first release",
   "is_mandatory":false,
 }
